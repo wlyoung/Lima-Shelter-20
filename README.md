@@ -29,5 +29,5 @@ And just because someone will ask, it was named for the city in Peru and not the
 
 * Several pieces of AtFAB furniture have been added to the waste areas of some of the 3/4" sheets. Thanks SO much to Ann and Gary for allowing us to include their designs. You may ONLY cut their furniture along with these Shelter files...if you want to cut more contact them at http://atfab.co/
 
-* This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+* This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
